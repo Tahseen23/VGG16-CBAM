@@ -1,0 +1,6 @@
+outs:
+- md5: 531e7d8b0caabe67c31a43935eadfe69.dir
+  size: 114537339
+  nfiles: 500
+  hash: md5
+  path: Grapevine_Leaves_Image_Dataset
